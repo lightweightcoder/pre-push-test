@@ -1,0 +1,20 @@
+{
+  "name": "pre-push-test",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "test.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightweightcoder/pre-push-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightweightcoder/pre-push-test/issues"
+  },
+  "homepage": "https://github.com/lightweightcoder/pre-push-test#readme"
+}
